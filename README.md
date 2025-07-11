@@ -1,5 +1,5 @@
 # WarGame
-To run, download the entire repository.
+To run, download the entire repository. Then unzip the file and put the entire repository into your desired IDE.
 
 Go to src/cardGame/War.java
 
